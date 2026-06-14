@@ -1,5 +1,5 @@
 import "./App.css";
-import profileImage from "./assets/profile.jpg";
+import profileImage from "./assets/profile-image.jpg";
 
 function App() {
   return (
