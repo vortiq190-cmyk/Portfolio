@@ -7,7 +7,7 @@ function App() {
       <div className="card">
         <img src={profileImage} alt="Profile" className="profile-image" />
 
-        <h1>Laura Chiamaka Ezurike</h1>
+        <h1>Laura Ezurike</h1>
         <p className="title">Bad-ass Developer</p>
 
         <a
